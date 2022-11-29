@@ -1,0 +1,1 @@
+/Users/kokorozashiguohuang/VSCodeProjects/rust-learn/mini_grep/target/debug/mini_grep: /Users/kokorozashiguohuang/VSCodeProjects/rust-learn/mini_grep/src/lib.rs /Users/kokorozashiguohuang/VSCodeProjects/rust-learn/mini_grep/src/main.rs

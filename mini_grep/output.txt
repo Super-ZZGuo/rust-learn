@@ -1,0 +1,4 @@
+args query: 礼物
+args file_name: song.txt
+礼物不需挑最贵只要香榭的落叶
+礼物不需挑最贵只要香榭的落叶
