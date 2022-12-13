@@ -1,1 +1,0 @@
-/Users/kokorozashiguohuang/VSCodeProjects/rust-learn/marcos/pancakes/target/debug/pancakes: /Users/kokorozashiguohuang/VSCodeProjects/rust-learn/marcos/hello_macro/macro_derive/src/lib.rs /Users/kokorozashiguohuang/VSCodeProjects/rust-learn/marcos/hello_macro/src/lib.rs /Users/kokorozashiguohuang/VSCodeProjects/rust-learn/marcos/pancakes/src/main.rs
